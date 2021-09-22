@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Diwali_2013</Id>
+    <Name>गुढी पाडवा २०१७</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>अधिक माहिती</strong><br />
+चैत्राची सुरवात ज्या दिवसाने होते तो दिवस म्हणजे गुढीपाडवा! या दिवसापासून हिंदू नववर्ष सुरू होते. या चैत्र शुक्ल पक्षाच्या प्रथम दिवशी (पाडव्याला) प्रभू राम सपत्नीक १४ वर्षांचा वनवास संपवून अयोध्येला परत आले होते. त्या आनंदाचे प्रतीक म्हणून आपणही घरादाराला आंब्याची तोरणे बांधतो, फुलांच्या माळांनी घर सजवतो तसेच गुढीदेखील उभारतो. हिंदू पंचागानुसार हा दिवस साडेतीन मुहूर्तापैकी एक मानला जातो. यंदादेखील हिंदू-नववर्षाच्या सुरवातीला, आपण सर्व एकत्र येऊन हा सण साजरा करूया.]]>
+    </ShortDescription>
+    <Details/>
+    <Date>शनिवार, ६ मे २०१७</Date>
+    <Time>संध्या ५:३० ते रात्रौ ९:३०</Time>
+    <Venue>
+      <![CDATA[ ब्रेंटवुड लायब्ररी, ८१०९ कॉंकोर्ड रोड ब्रेंटवुड, ३७०२७]]>
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Diwali_2013</Id>
+    <Name>Gudhi Padawa 2017</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>Highlights</strong><br />
+	According to the Hindu Panchang, this is the first day of spring (Chaitra). On this particular day, Lord Ram along with his wife Seeta had returend to Ayodhya after completing 14 years of his exile. Gudhi - meaning a flag, is hoisted on this occassion giving the festival its name. Let's all come together to celebrate this festival and mark the begining of a Hindu New Year.]]>
+    </ShortDescription>
+    <Details/>
+    <Date>Saturday, May 6, 2017</Date>
+    <Time>5:30PM to 9:30 PM</Time>
+    <Venue>
+      <![CDATA[
+Brentwoood Library - 8109 Concord Rd, Brentwood, TN 37027
+]]>
+    </Venue>
+  </Culture>
+</Event>

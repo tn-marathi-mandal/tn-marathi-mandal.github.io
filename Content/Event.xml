@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Diwali_2013</Id>
+    <Name>मोगरा- मराठीतील पहिले वाहिले ‘नेटक’</Name>
+    <ShortDescription>
+      <!--<![CDATA[<strong>अधिक माहिती</strong><br /> अंधारवाटा  उजळून निघाल्या... ]]>-->
+    </ShortDescription>
+    <Details/>
+   <Date> लवकरच येत आहे...</Date>
+    <Time>  </Time>
+    <Venue>
+      <!--<![CDATA[Historic Nolensville School event center,7248 Nolensville Road,Nolensville, TN 37135]]>-->
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Diwali_2013</Id>
+    <Name>Mogara - Live 'Netak' </Name>
+    <ShortDescription>
+      <!--<![CDATA[<strong>Highlights</strong><br />अंधारवाटा  उजळून निघाल्या .. ]]>-->
+    </ShortDescription>
+    <Details/>
+      <Date> Coming soon...</Date>
+    <Time> </Time>
+    <Venue>
+      <!--<![CDATA[Historic Nolensville School event center,7248 Nolensville Road,Nolensville, TN 37135]]>-->
+    </Venue>
+ </Culture>
+</Event>

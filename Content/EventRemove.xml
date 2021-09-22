@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Gudhi Padawa 2014</Id>
+    <Name>गुढी पाडवा २०१४</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>अधिक माहिती</strong><br />
+
+टेनेसी मराठी मंडळ सादर करत आहे 'कौशल कट्टा' !!
+मराठी अभिमान गीत फेम कौशल इनामदार यांच्यासोबत संगीतमय प्रवास!! ]]>
+    </ShortDescription>
+    <Details/>
+    <Date>शुक्रवार, ९ मे २०१४</Date>
+    <Time>संध्याकाळी ६ पासून </Time>
+    <Venue>
+      <![CDATA[श्री गणेश टेम्पल, ५२७ ओल्ड हिकरी बोलेवार्ड , नेशवील,  टेनेसी ३७२०९ दूरभाष ६१५ ३५६ ७२०७]>
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Gudhi Padawa 2014</Id>
+    <Name>Gudhi Padawa 2014</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>Highlights</strong><br />
+TNMM is pleased to present "Kaushal Katta' - a musical journey with 'Marathi Abhiman Geet' Fame Kaushal Inamdar!!]]>
+    </ShortDescription>
+    <Details/>
+    <Date>Friday, May 9th, 2014</Date>
+    <Time>6:00pm Onwards </Time>
+    <Venue>
+      <![CDATA[
+ Shree Ganesh Temple, 527 Old Hickory Blvd, Nashville, TN 37209 Phone: 615-356-7207:- 
+]]>
+    </Venue>
+  </Culture>
+</Event>
+
+

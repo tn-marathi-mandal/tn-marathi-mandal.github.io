@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Diwali_2013</Id>
+    <Name>गणेशोत्सव २०१७ - मराठी नाटक</Name>
+    <ShortDescription>
+      <![CDATA[<strong>अधिक माहिती</strong><br />
+गणेशोत्सव म्हणजे भारतीय संगीत, कला यांचा आस्वाद घेण्यासाठी एक पर्वणीच ! त्यानिमित्तानेच यावर्षी टेनेसि मराठी मंडळ सादर करीत आहे सुप्रसिद्ध मराठी नाटक "मोरूची मावशी"...]]>
+    </ShortDescription>
+    <Details/>
+    <Date>शनिवार, ९ सप्टेंबर २०१७</Date>
+    <Time>संध्या. ४ ते रात्रौ ९ </Time>
+    <Venue>
+      <![CDATA[श्री गणेश मंदिर,        ५२७ ओल्ड हिकरी बुलेव्हार्ड, नॅशव्हिल, टेनेसि-३७२०९.       फोन - ६१५.३५६.७२०७]]>
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Diwali_2013</Id>
+    <Name>Ganeshotsav 2017 - Marathi Drama</Name>
+    <ShortDescription>
+      <![CDATA[<strong>Highlights</strong><br />
+Ganeshotsav has always been an opportunitiy to witness cultural heritage of India. Let it be music or any form of art. This year TNMM is produly presenting famous Marathi Comedy Drama "Moruchi Mavshi" by Natyagandhar Detroit]]>
+    </ShortDescription>
+    <Details/>
+    <Date>Saturday, September 9, 2017</Date>
+    <Time>4 PM to 9 PM</Time>
+    <Venue>
+      <![CDATA[Sri Ganesh Temple,     527 Old Hickory Blvd. Nashville, TN-37209.    Phone - 615.356.7207]]>
+    </Venue>
+  </Culture>
+</Event>

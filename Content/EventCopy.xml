@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Diwali_2013</Id>
+    <Name>दिवाळी</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>अधिक माहिती</strong><br />
+
+दिवाळी सण हा मोठा !! नाही आनंदा तोटा !!
+चला तर मग साजरी करूया दिवाळी आपल्या सर्व मित्र मैत्रिणीबरोबर!! ]]>
+    </ShortDescription>
+    <Details/>
+    <Date>शनिवार, ऑक्टोबर २६, २०१३</Date>
+    <Time>दु. ४ ते रा. ८</Time>
+    <Venue>
+      <![CDATA[ब्रेंटवूड सिटी लायब्ररी, ८१०९ कॉंकर्ड रोड, ब्रेंटवूड  टेनिसी ३७०२७]]>
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Diwali_2013</Id>
+    <Name>Diwali</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>Highlights</strong><br />
+Let's come together and celebrate Festival of Lights - DIWALI!!!]]>
+    </ShortDescription>
+    <Details/>
+    <Date>Saturday, October 26, 2013</Date>
+    <Time>4:00pm - 8:00pm</Time>
+    <Venue>
+      <![CDATA[
+ 8109 Concord Road, Brentwood City Library, TN 37027
+]]>
+    </Venue>
+  </Culture>
+</Event>
+
+

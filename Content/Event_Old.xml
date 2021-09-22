@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Event>
+  <Culture value="mr-IN">
+    <Id>Gudhipadwa_2013</Id>
+    <Name>गुढीपाडवा</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>अधिक माहिती</strong><br />
+                                         मराठी नवीन वर्षातील पहिला सण म्हणजे गुढीपाडवा. टेनिसी मराठी मंडळाचा गुढीपाडवा कार्यक्रम ब्रेंटवूड लायब्ररी, ८१०९ कॉंकर्ड रोड येथे उत्साहात साजरा होईल. 
+      ]]>
+    </ShortDescription>
+    <Details></Details>
+    <Date>शनिवार, एप्रिल 6, 2013</Date>
+    <Time>3:30pm - 8:00pm</Time>
+    <Venue>
+      <![CDATA[
+      ब्रेंटवूड लायब्ररी, ८१०९ कॉंकर्ड रोड, ब्रेंटवूड ३७०२७
+      ]]>
+    </Venue>
+  </Culture>
+  <Culture value="en-US">
+    <Id>Gudhipadwa_2013</Id>
+    <Name>Gudhipadwa</Name>
+    <ShortDescription>
+      <![CDATA[
+      <strong>Highlights</strong><br />
+                                        Gudhipadwa is the first festival in Marathi calendar. TNMM will celebrate Gudhipadwa this year at Brentwood Library, 8109 Concord Rd.
+      ]]>
+    </ShortDescription>
+    <Details></Details>
+    <Date>Saturday, April 6, 2013</Date>
+    <Time>3:30pm - 8:00pm</Time>
+    <Venue>
+      <![CDATA[
+      Brentwood Library, 8109 Concord Rd., Brentwood 37027
+      ]]>
+    </Venue>
+  </Culture>
+</Event>
